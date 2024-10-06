@@ -56,7 +56,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lehanineraouf/cassation-data-api.git
+   git clone https://github.com/LehanineAbderraouf/cassation-data-api.git
    cd cassation-data-api
    ```
 
