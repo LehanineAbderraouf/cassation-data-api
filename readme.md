@@ -200,9 +200,3 @@ You can run the entire project (both data collection and API) using Docker.
 
 3. **API** will be available at `http://localhost:5000`.
 
-## Testing
-
-To test the API:
-1. Run the data collection script using `docker-compose`.
-2. Obtain a JWT token from the `/login` endpoint.
-3. Use the token to make requests to the other endpoints.
